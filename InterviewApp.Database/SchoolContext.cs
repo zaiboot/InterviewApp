@@ -19,5 +19,6 @@ namespace InterviewApp.Database
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
+        
     }
 }
