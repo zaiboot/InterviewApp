@@ -377,43 +377,7 @@
                 }
             ],
             "skus": [
-                {
-                    "id": "PAT00FN-DEESEABL-S",
-                    "season": "FW0",
-                    "year": "2016",
-                    "image": {
-                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
-                    },
-                    "isPastSeason": false,
-                    "color": {
-                        "name": "Deep Sea Blue",
-                        "family": "blue"
-                    },
-                    "title": "Deep Sea Blue, S",
-                    "isRetail": true,
-                    "isCloseout": false,
-                    "isOutlet": false,
-                    "size": {
-                        "name": "S",
-                        "scale": "Men's Alphabetical",
-                        "position": 2
-                    },
-                    "catalogs": [
-                        "bcs",
-                        "steepcheap"
-                    ],
-                    "listPrice": 229.0,
-                    "salePrice": 194.65,
-                    "discountPercent": 15,
-                    "onSale": true,
-                    "url": "/patagonia-down-sweater-mens",
-                    "allowBackorder": false,
-                    "availability": {
-                        "status": "InStock",
-                        "stockLevel": 69,
-                        "backorderLevel": 0
-                    }
-                },
+               
                 {
                     "id": "PAT00FN-DEESEABL-M",
                     "season": "FW0",
