@@ -1,0 +1,2579 @@
+{
+    "metadata": {
+        "found": 1,
+        "time": 9,
+        "productSummary": {
+            "PAT00FN": {
+                "listPrice": {
+                    "min": 229.0,
+                    "max": 229.0
+                },
+                "salePrice": {
+                    "min": 194.65,
+                    "max": 229.0
+                },
+                "discountPercent": {
+                    "min": 0,
+                    "max": 15
+                },
+                "color": {
+                    "count": 13,
+                    "families": [
+                        "black",
+                        "red",
+                        "green",
+                        "blue",
+                        "gray",
+                        "brown",
+                        "orange"
+                    ]
+                },
+                "isRetail": {
+                    "buckets": {
+                        "true": 59
+                    }
+                },
+                "isOutlet": {
+                    "buckets": {
+                        "false": 59
+                    }
+                },
+                "onSale": {
+                    "buckets": {
+                        "true": 31,
+                        "false": 28
+                    }
+                }
+            }
+        }
+    },
+    "products": [
+        {
+            "id": "PAT00FN",
+            "title": "Down Sweater Jacket - Men's",
+            "description": "<p>Mustering up the will power to get out of your sleeping bag in the early hours of the morning when frost clings to your tent walls can be daunting. So before you wait for your camp mates to come shake you out of bed, know that the Patagonia Men's Down Sweater Jacket will keep you just about as cozy as your sleeping bag did thanks to its plush 800-fill down insulation and windproof exterior. Each down cluster can be traced back to geese that were never live plucked or force fed, and its incredibly warm and compressible so you can stash it away when the temperatures rise. The eco-friendly fabric is made entirely from recycled materials and is treated with a DWR finish to shed light precip whether you're exploring a new-to-you trail somewhere in the Tetons, climbing granite in the Enchantments, or ripping skins in the Wasatch backcountry.</p>",
+            "brand": {
+                "id": "54",
+                "name": "Patagonia"
+            },
+            "gender": "Men's/Unisex",
+            "sizingChart": "11",
+            "detailImages": [
+                {
+                    "title": "On-Model Back",
+                    "url": "/images/items/small/PAT/PAT00FN/FEAGREGRE_D2.jpg"
+                },
+                {
+                    "title": "Back",
+                    "url": "/images/items/small/PAT/PAT00FN/NVBLUBL_D1.jpg"
+                },
+                {
+                    "title": "Inside",
+                    "url": "/images/items/small/PAT/PAT00FN/FORGRE_D1.jpg"
+                },
+                {
+                    "title": "Back",
+                    "url": "/images/items/small/PAT/PAT00FN/NVBL_D1.jpg"
+                },
+                {
+                    "title": "Stuff sack / pack",
+                    "url": "/images/items/small/PAT/PAT00FN/FEAGREGRE_D4.jpg"
+                },
+                {
+                    "title": "Back",
+                    "url": "/images/items/small/PAT/PAT00FN/BK_D1.jpg"
+                },
+                {
+                    "title": "Open",
+                    "url": "/images/items/small/PAT/PAT00FN/FEAGREGRE_D3.jpg"
+                },
+                {
+                    "title": "On-Model Front",
+                    "url": "/images/items/small/PAT/PAT00FN/FEAGREGRE_D1.jpg"
+                }
+            ],
+            "bulletPoints": [
+                "Lightweight insulation for climbing, backpacking, and skiing",
+                "800-fill down insulation is warm and highly compressible",
+                "Down sourced from geese that were never force fed or live plucked",
+                "Recycled ripstop shell is windproof and water-resistant",
+                "Internal chest pocket doubles as a stuff sack",
+                "Adjustable hem can be cinched tight to lock in body heat",
+                "Regular fit with contoured body and bound cuffs",
+                "Patagonia has been crafting sustainable goods since 1973"
+            ],
+            "attributes": [
+                {
+                    "name": "Fit",
+                    "value": "Regular/Relaxed"
+                },
+                {
+                    "name": "Insulation",
+                    "value": "Down Fill"
+                },
+                {
+                    "name": "Insulation Weight",
+                    "value": "Midweight"
+                },
+                {
+                    "name": "Length",
+                    "value": "Short"
+                },
+                {
+                    "name": "Recommended Use",
+                    "value": "Climbing"
+                },
+                {
+                    "name": "Recommended Use",
+                    "value": "Alpine & Expedition"
+                },
+                {
+                    "name": "Features",
+                    "value": "Water Resistant"
+                },
+                {
+                    "name": "Gender",
+                    "value": "Men's/Unisex"
+                },
+                {
+                    "name": "Hood",
+                    "value": "No"
+                },
+                {
+                    "name": "Shirt Style",
+                    "value": "Full-Zip"
+                },
+                {
+                    "name": "Down Fill",
+                    "value": "700 - 800"
+                },
+                {
+                    "name": "bottomline",
+                    "value": "Stay warm, stay motivated.",
+                    "searchable": false
+                }
+            ],
+            "features": [
+                {
+                    "name": "Material",
+                    "value": "[body] 20 x 30D 100% recycled polyester ripstop,  DWR finish,  [lining] 100% recycled polyester ripstop,  DWR finish"
+                },
+                {
+                    "name": "Insulation",
+                    "value": "800-fill Traceable Down"
+                },
+                {
+                    "name": "Fit",
+                    "value": "regular"
+                },
+                {
+                    "name": "Length",
+                    "value": "hip"
+                },
+                {
+                    "name": "Hood",
+                    "value": "no"
+                },
+                {
+                    "name": "Pockets",
+                    "value": "2 zip hand"
+                },
+                {
+                    "name": "Claimed Weight",
+                    "value": "13 oz"
+                },
+                {
+                    "name": "Recommended Use",
+                    "value": "alpine & expedition,  climbing"
+                },
+                {
+                    "name": "Manufacturer Warranty",
+                    "value": "lifetime"
+                },
+                {
+                    "name": "storecredits",
+                    "value": "0.0"
+                }
+            ],
+            "listRank": 2,
+            "customerReviews": {
+                "count": 97,
+                "average": 4.5,
+                "bayesianAverage": 4.48
+            },
+            "availabilityStatus": "InStock",
+            "categories": [
+                {
+                    "id": "catb10001",
+                    "name": "rootNode",
+                    "alias": "rootNode",
+                    "seoUrlToken": "rootnode",
+                    "canonicalUrl": "/rootnode",
+                    "isRuleBased": false,
+                    "sites": [
+                        "bcs"
+                    ],
+                    "childCategories": [
+                        {
+                            "id": "bcsCat100003",
+                            "name": "Men's Clothing",
+                            "alias": "Men",
+                            "seoUrlToken": "mens-clothing",
+                            "canonicalUrl": "/mens-clothing",
+                            "isRuleBased": false,
+                            "sites": [
+                                "bcs"
+                            ],
+                            "childCategories": [
+                                {
+                                    "id": "bcsCat110004",
+                                    "name": "Men's Jackets",
+                                    "alias": "Jackets",
+                                    "seoUrlToken": "mens-jackets",
+                                    "canonicalUrl": "/mens-jackets",
+                                    "isRuleBased": false,
+                                    "sites": [
+                                        "bcs"
+                                    ],
+                                    "childCategories": [
+                                        {
+                                            "id": "cat100208508",
+                                            "name": "Men's Insulated Jackets",
+                                            "alias": "Men's Insulated Jackets",
+                                            "seoUrlToken": "mens-insulated-jackets",
+                                            "canonicalUrl": "/mens-insulated-jackets",
+                                            "isRuleBased": false,
+                                            "sites": [
+                                                "bcs"
+                                            ],
+                                            "childCategories": [
+                                                {
+                                                    "id": "bcsCat1110015",
+                                                    "name": "Men's Down Jackets",
+                                                    "alias": "Down Jackets",
+                                                    "seoUrlToken": "mens-down-jackets",
+                                                    "canonicalUrl": "/mens-down-jackets",
+                                                    "isRuleBased": false,
+                                                    "sites": [
+                                                        "bcs"
+                                                    ],
+                                                    "attributes": {
+                                                        "pageMetaDescription": "Shop a full selection of down jackets for men by Patagonia, The North Face, Marmot, and more. Get a 100% guarantee on all down coats.",
+                                                        "pageHeader": "Men's Down Jackets & Coats",
+                                                        "pageTitleTag": "Best Down Jackets and Coats",
+                                                        "customPageMetaDescription": "Shop a full selection of down jackets for men by Patagonia, The North Face, Marmot, and more. Get a 100% guarantee on all down coats.",
+                                                        "marketingPriority": "0",
+                                                        "customPageTitleTag": "Best Down Jackets and Coats"
+                                                    }
+                                                }
+                                            ],
+                                            "attributes": {
+                                                "pageTitleTag": "Men's Insulated Jackets"
+                                            }
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "pageMetaDescription": "Backcounty.com has great deals and an amazing selection of men's ski, snowboard, and winter jackets. Browse latest jackets from The North Face, Arc'teryx, Patagonia, Spyder, and more.",
+                                        "pageHeader": "Men's Jackets & Coats",
+                                        "thumbnailImageUrl": "/images/items/tiny/ARC/ARC3668/BLNIL.jpg",
+                                        "pageTitleTag": "Men's Winter Jackets & Coats",
+                                        "customPageMetaDescription": "Backcounty.com has great deals and an amazing selection of men's ski, snowboard, and winter jackets. Browse latest jackets from The North Face, Arc'teryx, Patagonia, Spyder, and more.",
+                                        "marketingPriority": "-199",
+                                        "customPageTitleTag": "Men's Winter Jackets & Coats"
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "pageMetaDescription": "Backcounty.com has great deals and an amazing selection of men's outdoor clothing. Including outdoor vests, hiking outfits and more.",
+                                "thumbnailImageUrl": "/images/items/tiny/TNF/TNF8429/ARDGREGRE.jpg",
+                                "pageTitleTag": "Men's Outdoor Clothing - Ski, Hike, & More",
+                                "customPageMetaDescription": "Backcounty.com has great deals and an amazing selection of men's outdoor clothing. Including outdoor vests, hiking outfits and more.",
+                                "marketingPriority": "1",
+                                "customPageTitleTag": "Men's Outdoor Clothing - Ski, Hike, & More"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "pageTitleTag": "rootNode"
+                    }
+                },
+                {
+                    "id": "sacCat10001",
+                    "name": "rootNode",
+                    "alias": "rootNode",
+                    "seoUrlToken": "rootnode",
+                    "canonicalUrl": "/rootnode",
+                    "isRuleBased": false,
+                    "sites": [
+                        "steepcheap"
+                    ],
+                    "childCategories": [
+                        {
+                            "id": "sacCat100003",
+                            "name": "Men's Clothing",
+                            "alias": "Men",
+                            "seoUrlToken": "mens-clothing",
+                            "canonicalUrl": "/mens-clothing",
+                            "isRuleBased": false,
+                            "sites": [
+                                "steepcheap"
+                            ],
+                            "childCategories": [
+                                {
+                                    "id": "sacCat110004",
+                                    "name": "Men's Jackets",
+                                    "alias": "Jackets",
+                                    "seoUrlToken": "mens-jackets",
+                                    "canonicalUrl": "/mens-jackets",
+                                    "isRuleBased": false,
+                                    "sites": [
+                                        "steepcheap"
+                                    ],
+                                    "childCategories": [
+                                        {
+                                            "id": "sacCat1110015",
+                                            "name": "Men's Down Jackets",
+                                            "alias": "Down Jackets",
+                                            "seoUrlToken": "mens-down-jackets",
+                                            "canonicalUrl": "/mens-down-jackets",
+                                            "isRuleBased": false,
+                                            "sites": [
+                                                "steepcheap"
+                                            ],
+                                            "attributes": {
+                                                "pageMetaDescription": "Shop a full selection of down jackets for men by Patagonia, The North Face, Marmot, and more. Get a 100% guarantee on all down coats.",
+                                                "pageHeader": "Men's Down Jackets & Parkas",
+                                                "pageTitleTag": "Down Jackets for Men - Coats & Parkas",
+                                                "customPageMetaDescription": "Shop a full selection of down jackets for men by Patagonia, The North Face, Marmot, and more. Get a 100% guarantee on all down coats.",
+                                                "marketingPriority": "0",
+                                                "customPageTitleTag": "Down Jackets for Men - Coats & Parkas"
+                                            }
+                                        }
+                                    ],
+                                    "attributes": {
+                                        "pageMetaDescription": "Steep & Cheap has great deals and an amazing selection of men's ski, snowboard, and winter jackets. Browse latest jackets from The North Face, Arc'teryx, Patagonia, Spyder, and more.",
+                                        "pageHeader": "Men's Jackets & Coats",
+                                        "thumbnailImageUrl": "/images/items/tiny/ARC/ARC3668/BLNIL.jpg",
+                                        "pageTitleTag": "Men's Jackets & Coats - Rain, Snow, etc.",
+                                        "customPageMetaDescription": "Steep & Cheap has great deals and an amazing selection of men's ski, snowboard, and winter jackets. Browse latest jackets from The North Face, Arc'teryx, Patagonia, Spyder, and more.",
+                                        "marketingPriority": "-199",
+                                        "customPageTitleTag": "Men's Jackets & Coats - Rain, Snow, etc."
+                                    }
+                                }
+                            ],
+                            "attributes": {
+                                "pageMetaDescription": "Steep & Cheap has great deals and an amazing selection of men's outdoor clothing. Including outdoor vests, hiking outfits and more.",
+                                "thumbnailImageUrl": "/images/items/tiny/TNF/TNF8429/ARDGREGRE.jpg",
+                                "pageTitleTag": "Men's Outdoor Clothing - Ski, Hike, & More",
+                                "customPageMetaDescription": "Steep & Cheap has great deals and an amazing selection of men's outdoor clothing. Including outdoor vests, hiking outfits and more.",
+                                "marketingPriority": "1",
+                                "customPageTitleTag": "Men's Outdoor Clothing - Ski, Hike, & More"
+                            }
+                        }
+                    ],
+                    "attributes": {
+                        "pageTitleTag": "rootNode"
+                    }
+                }
+            ],
+            "skus": [
+                {
+                    "id": "PAT00FN-DEESEABL-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Deep Sea Blue",
+                        "family": "blue"
+                    },
+                    "title": "Deep Sea Blue, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 69,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-DEESEABL-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Deep Sea Blue",
+                        "family": "blue"
+                    },
+                    "title": "Deep Sea Blue, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 249,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-DEESEABL-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Deep Sea Blue",
+                        "family": "blue"
+                    },
+                    "title": "Deep Sea Blue, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 192,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-DEESEABL-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Deep Sea Blue",
+                        "family": "blue"
+                    },
+                    "title": "Deep Sea Blue, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 81,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-DEESEABL-XXL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/DEESEABL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Deep Sea Blue",
+                        "family": "blue"
+                    },
+                    "title": "Deep Sea Blue, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 20,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-REFGRE-S",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/REFGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Reflection/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Reflection/Forge Grey, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 3,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-REFGRE-M",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/REFGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Reflection/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Reflection/Forge Grey, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 8,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-REFGRE-L",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/REFGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Reflection/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Reflection/Forge Grey, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 6,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-REFGRE-XL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/REFGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Reflection/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Reflection/Forge Grey, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 3,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-REFGRE-XXL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/REFGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Reflection/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Reflection/Forge Grey, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 1,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-OAKBN-S",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/OAKBN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Oaks Brown",
+                        "family": "brown"
+                    },
+                    "title": "Oaks Brown, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 3,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-OAKBN-M",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/OAKBN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Oaks Brown",
+                        "family": "brown"
+                    },
+                    "title": "Oaks Brown, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 8,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-OAKBN-L",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/OAKBN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Oaks Brown",
+                        "family": "brown"
+                    },
+                    "title": "Oaks Brown, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 7,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-OAKBN-XL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/OAKBN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Oaks Brown",
+                        "family": "brown"
+                    },
+                    "title": "Oaks Brown, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 1,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-OAKBN-XXL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/OAKBN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Oaks Brown",
+                        "family": "brown"
+                    },
+                    "title": "Oaks Brown, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 1,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-NOUGN-S",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/NOUGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Nouveau Green",
+                        "family": "gray"
+                    },
+                    "title": "Nouveau Green, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 4,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-NOUGN-L",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/NOUGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Nouveau Green",
+                        "family": "gray"
+                    },
+                    "title": "Nouveau Green, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 4,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-NOUGN-XL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/NOUGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Nouveau Green",
+                        "family": "gray"
+                    },
+                    "title": "Nouveau Green, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 1,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-NOUGN-XXL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/NOUGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Nouveau Green",
+                        "family": "gray"
+                    },
+                    "title": "Nouveau Green, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 2,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BK-XL",
+                    "season": "FW0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BK.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Black",
+                        "family": "black"
+                    },
+                    "title": "Black, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 6,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BIGSURBL-S",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BIGSURBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Big Sur Blue, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 11,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BIGSURBL-M",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BIGSURBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Big Sur Blue, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 26,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BIGSURBL-L",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BIGSURBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Big Sur Blue, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 31,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BIGSURBL-XL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BIGSURBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Big Sur Blue, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 11,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BIGSURBL-XXL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BIGSURBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Big Sur Blue, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 2,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-ANBLSUBL-S",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ANBLSUBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Andes Blue/Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Andes Blue/Big Sur Blue, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 4,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-ANBLSUBL-M",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ANBLSUBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Andes Blue/Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Andes Blue/Big Sur Blue, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 11,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-ANBLSUBL-L",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ANBLSUBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Andes Blue/Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Andes Blue/Big Sur Blue, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 16,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-ANBLSUBL-XL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ANBLSUBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Andes Blue/Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Andes Blue/Big Sur Blue, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 5,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-ANBLSUBL-XXL",
+                    "season": "SS0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ANBLSUBL.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Andes Blue/Big Sur Blue",
+                        "family": "blue"
+                    },
+                    "title": "Andes Blue/Big Sur Blue, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 2,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BK-S",
+                    "season": "FW0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BK.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Black",
+                        "family": "black"
+                    },
+                    "title": "Black, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 57,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BK-M",
+                    "season": "FW0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BK.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Black",
+                        "family": "black"
+                    },
+                    "title": "Black, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 224,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-BK-L",
+                    "season": "FW0",
+                    "year": "2017",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/BK.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Black",
+                        "family": "black"
+                    },
+                    "title": "Black, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 229.0,
+                    "discountPercent": 0,
+                    "onSale": false,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 86,
+                        "backorderLevel": 0,
+                        "date": 1487142000000
+                    }
+                },
+                {
+                    "id": "PAT00FN-RAMRD-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/RAMRD.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ramble Red",
+                        "family": "red"
+                    },
+                    "title": "Ramble Red, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 14,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-RAMRD-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/RAMRD.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ramble Red",
+                        "family": "red"
+                    },
+                    "title": "Ramble Red, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 39,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-RAMRD-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/RAMRD.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ramble Red",
+                        "family": "red"
+                    },
+                    "title": "Ramble Red, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 26,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-RAMRD-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/RAMRD.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ramble Red",
+                        "family": "red"
+                    },
+                    "title": "Ramble Red, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 10,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-LEGGN-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/LEGGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Legend Green",
+                        "family": "green"
+                    },
+                    "title": "Legend Green, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 57,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-LEGGN-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/LEGGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Legend Green",
+                        "family": "green"
+                    },
+                    "title": "Legend Green, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 179,
+                        "backorderLevel": 0,
+                        "date": 1484722800000
+                    }
+                },
+                {
+                    "id": "PAT00FN-LEGGN-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/LEGGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Legend Green",
+                        "family": "green"
+                    },
+                    "title": "Legend Green, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 179,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-LEGGN-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/LEGGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Legend Green",
+                        "family": "green"
+                    },
+                    "title": "Legend Green, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 66,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-LEGGN-XXL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/LEGGN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Legend Green",
+                        "family": "green"
+                    },
+                    "title": "Legend Green, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 16,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FOR-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Forestland/Black",
+                        "family": "black"
+                    },
+                    "title": "Forestland/Black, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 21,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FOR-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Forestland/Black",
+                        "family": "black"
+                    },
+                    "title": "Forestland/Black, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 66,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FOR-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Forestland/Black",
+                        "family": "black"
+                    },
+                    "title": "Forestland/Black, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 37,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FOR-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Forestland/Black",
+                        "family": "black"
+                    },
+                    "title": "Forestland/Black, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 11,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FEAGREGRE-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FEAGREGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Feather Grey/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Feather Grey/Forge Grey, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 54,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FEAGREGRE-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FEAGREGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Feather Grey/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Feather Grey/Forge Grey, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 428,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FEAGREGRE-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FEAGREGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Feather Grey/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Feather Grey/Forge Grey, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 476,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FEAGREGRE-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FEAGREGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Feather Grey/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Feather Grey/Forge Grey, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 82,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-FEAGREGRE-XXL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/FEAGREGRE.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Feather Grey/Forge Grey",
+                        "family": "gray"
+                    },
+                    "title": "Feather Grey/Forge Grey, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 15,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-CUSOR-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/CUSOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Cusco Orange",
+                        "family": "orange"
+                    },
+                    "title": "Cusco Orange, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 3,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-CUSOR-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/CUSOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Cusco Orange",
+                        "family": "orange"
+                    },
+                    "title": "Cusco Orange, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 15,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-CUSOR-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/CUSOR.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Cusco Orange",
+                        "family": "orange"
+                    },
+                    "title": "Cusco Orange, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 10,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-ASHTN-S",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ASHTN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ash Tan",
+                        "family": "brown"
+                    },
+                    "title": "Ash Tan, S",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "S",
+                        "scale": "Men's Alphabetical",
+                        "position": 2
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 22,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-ASHTN-M",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ASHTN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ash Tan",
+                        "family": "brown"
+                    },
+                    "title": "Ash Tan, M",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "M",
+                        "scale": "Men's Alphabetical",
+                        "position": 4
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 157,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-ASHTN-L",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ASHTN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ash Tan",
+                        "family": "brown"
+                    },
+                    "title": "Ash Tan, L",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "L",
+                        "scale": "Men's Alphabetical",
+                        "position": 6
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 135,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-ASHTN-XL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ASHTN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ash Tan",
+                        "family": "brown"
+                    },
+                    "title": "Ash Tan, XL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XL",
+                        "scale": "Men's Alphabetical",
+                        "position": 8
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 81,
+                        "backorderLevel": 0
+                    }
+                },
+                {
+                    "id": "PAT00FN-ASHTN-XXL",
+                    "season": "FW0",
+                    "year": "2016",
+                    "image": {
+                        "url": "/images/items/medium/PAT/PAT00FN/ASHTN.jpg"
+                    },
+                    "isPastSeason": false,
+                    "color": {
+                        "name": "Ash Tan",
+                        "family": "brown"
+                    },
+                    "title": "Ash Tan, XXL",
+                    "isRetail": true,
+                    "isCloseout": false,
+                    "isOutlet": false,
+                    "size": {
+                        "name": "XXL",
+                        "scale": "Men's Alphabetical",
+                        "position": 10
+                    },
+                    "catalogs": [
+                        "bcs",
+                        "steepcheap"
+                    ],
+                    "listPrice": 229.0,
+                    "salePrice": 194.65,
+                    "discountPercent": 15,
+                    "onSale": true,
+                    "url": "/patagonia-down-sweater-mens",
+                    "allowBackorder": false,
+                    "availability": {
+                        "status": "InStock",
+                        "stockLevel": 21,
+                        "backorderLevel": 0
+                    }
+                }
+            ],
+            "generation": {
+                "number": 3,
+                "master": {
+                    "id": "PAT0554",
+                    "brand": {},
+                    "customerReviews": {},
+                    "generation": {}
+                }
+            },
+            "activationDate": "2014-07-08T21:35:13Z",
+            "isPackage": false,
+            "isOem": false
+        }
+    ]
+}
