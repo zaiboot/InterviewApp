@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspnet-Interview", "Aspnet-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspnet-Interview.Tests", "Aspnet-Interview.Tests\Aspnet-Interview.Tests.csproj", "{822C646E-06E3-43B9-8B33-A2AD7BF447AB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "template", "template", "{21B20AAC-31D6-4F16-992F-3C57350E0899}"
+	ProjectSection(SolutionItems) = preProject
+		base template\startbootstrap-freelancer-gh-pages.zip = base template\startbootstrap-freelancer-gh-pages.zip
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
