@@ -62,6 +62,9 @@
     <Content Include="content\css\dx.win10.white.css" />
     <Content Include="content\css\dx.win8.black.css" />
     <Content Include="content\css\dx.win8.white.css" />
+    <Content Include="content\custom\js\app.js" />
+    <Content Include="content\custom\js\controllers\patientController.js" />
+    <Content Include="content\custom\js\services\patientService.js" />
     <Content Include="content\js\angular-route.js" />
     <Content Include="content\js\angular-route.min.js" />
     <Content Include="content\js\angular.js" />
@@ -166,7 +169,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>55981</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:55981/</IISUrl>
+          <IISUrl>http://localhost:12345/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

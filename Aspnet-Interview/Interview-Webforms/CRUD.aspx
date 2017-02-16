@@ -17,38 +17,11 @@
     <link rel="stylesheet" type="text/css" href="content/css/dx.common.css" />
     <link rel="stylesheet" type="text/css" href="content/css/dx.light.css" />
 
-    <script type="text/javascript">
-        var myApp = angular.module('myApp', ['dx']);
-        myApp.controller("defaultCtrl", function ($scope) {
-            var employees = [
-                { a: 'a' },
-                { a: 'a' },
-                { a: 'a' }
-            ];
-            $scope.gridSettings = {
-                dataSource: employees,
-                paging: {
-                    pageSize: 6
-                },
-                filterRow: {
-                    visible: true
-                },
-                groupPanel: {
-                    visible: true,
-                },
-                editing: {
-                    editMode: 'row',
-                    editEnabled: true,
-                    removeEnabled: true,
-                    insertEnabled: true
-
-                }
-            }
-        });
-
-    </script>
 </head>
-<body ng-controller="defaultCtrl">
+<body ng-controller="patientCtrl">
     <div dx-data-grid="gridSettings"></div>
 </body>
+<script src="content/custom/js/app.js"></script>
+<script src="content/custom/js/services/patientService.js"></script>
+<script src="content/custom/js/controllers/patientController.js"></script>
 </html>

@@ -27,6 +27,7 @@ namespace Interview_WebApi
             var container = new UnityContainer();
             container.RegisterType<IPatientRepository, PatientRepository>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
+            config.EnableCors();
 
         }
     }

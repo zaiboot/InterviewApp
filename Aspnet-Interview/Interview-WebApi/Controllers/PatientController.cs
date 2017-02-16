@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using Interview_WebApi.Models;
 using AutoMapper;
 using Interview_DAL;
@@ -9,6 +10,7 @@ using Interview_DAL;
 namespace Interview_WebApi.Controllers
 {
     [RoutePrefix("api/patient")]
+    [EnableCors(origins: "http://localhost:12345", headers: "*", methods: "*")]
     public class PatientController : ApiController
     {
         private readonly IPatientRepository _patientRepository;
