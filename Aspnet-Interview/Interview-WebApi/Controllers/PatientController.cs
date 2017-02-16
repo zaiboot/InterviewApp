@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using System.Web.Http;
 using Interview_WebApi.Models;
 using AutoMapper;
@@ -14,19 +9,13 @@ namespace Interview_WebApi.Controllers
 {
     public class PatientController : ApiController
     {
-        // GET: api/Patient
-        //public IEnumerable<PatientModel> Get()
-        //{
-        //    return new List<PatientModel>
-        //    {
-        //       CreatePatient(),
-        //       CreatePatient()
-        //       CreatePatient()
+        private readonly IPatientRepository _patientRepository;
 
-        //    };
-        //}
 
-      
+        public PatientController(IPatientRepository patientRepository)
+        {
+            _patientRepository = patientRepository;
+        }
 
         [HttpPut]
         // PUT: api/Patient/5
@@ -38,9 +27,8 @@ namespace Interview_WebApi.Controllers
         // GET: api/Patient/5
         public async Task<PatientModel> Get(int id)
         {
-            IPatientRepository patientRepository = new PatientRepository();
-           
-            return Mapper.Map<PatientModel>(await patientRepository.GetSinglePatient(id)) ;
+
+            return Mapper.Map<PatientModel>(await _patientRepository.GetSinglePatient(id));
         }
 
         // POST: api/Patient
@@ -57,13 +45,5 @@ namespace Interview_WebApi.Controllers
         {
         }
 
-        private PatientModel CreatePatient()
-        {
-            return  new PatientModel()
-            {
-                
-
-            };
-        }
     }
 }

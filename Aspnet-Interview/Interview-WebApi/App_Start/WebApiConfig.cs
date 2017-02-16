@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using Interview_DAL;
+using Microsoft.Ajax.Utilities;
+using Microsoft.Practices.Unity;
 
 namespace Interview_WebApi
 {
@@ -19,6 +22,12 @@ namespace Interview_WebApi
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+
+            var container = new UnityContainer();
+            container.RegisterType<IPatientRepository, PatientRepository>(new HierarchicalLifetimeManager());
+            config.DependencyResolver = new UnityResolver(container);
+
         }
     }
 }
