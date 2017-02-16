@@ -48,6 +48,84 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\css\dx.android5.light.css" />
+    <Content Include="content\css\dx.common.css" />
+    <Content Include="content\css\dx.contrast.compact.css" />
+    <Content Include="content\css\dx.contrast.css" />
+    <Content Include="content\css\dx.dark.compact.css" />
+    <Content Include="content\css\dx.dark.css" />
+    <Content Include="content\css\dx.ios7.default.css" />
+    <Content Include="content\css\dx.light.compact.css" />
+    <Content Include="content\css\dx.light.css" />
+    <Content Include="content\css\dx.spa.css" />
+    <Content Include="content\css\dx.win10.black.css" />
+    <Content Include="content\css\dx.win10.white.css" />
+    <Content Include="content\css\dx.win8.black.css" />
+    <Content Include="content\css\dx.win8.white.css" />
+    <Content Include="content\js\angular-route.js" />
+    <Content Include="content\js\angular-route.min.js" />
+    <Content Include="content\js\angular.js" />
+    <Content Include="content\js\angular.min.js" />
+    <Content Include="content\js\aspnet\dx.aspnet.data.js" />
+    <Content Include="content\js\aspnet\dx.aspnet.mvc.js" />
+    <Content Include="content\js\cldr.js" />
+    <Content Include="content\js\cldr.min.js" />
+    <Content Include="content\js\cldr\event.js" />
+    <Content Include="content\js\cldr\event.min.js" />
+    <Content Include="content\js\cldr\supplemental.js" />
+    <Content Include="content\js\cldr\supplemental.min.js" />
+    <Content Include="content\js\cldr\unresolved.js" />
+    <Content Include="content\js\cldr\unresolved.min.js" />
+    <Content Include="content\js\dx.all.debug.js" />
+    <Content Include="content\js\dx.all.js" />
+    <Content Include="content\js\dx.mobile.debug.js" />
+    <Content Include="content\js\dx.mobile.js" />
+    <Content Include="content\js\dx.viz-web.debug.js" />
+    <Content Include="content\js\dx.viz-web.js" />
+    <Content Include="content\js\dx.viz.debug.js" />
+    <Content Include="content\js\dx.viz.js" />
+    <Content Include="content\js\dx.web.debug.js" />
+    <Content Include="content\js\dx.web.js" />
+    <Content Include="content\js\globalize.js" />
+    <Content Include="content\js\globalize.min.js" />
+    <Content Include="content\js\globalize\currency.js" />
+    <Content Include="content\js\globalize\currency.min.js" />
+    <Content Include="content\js\globalize\date.js" />
+    <Content Include="content\js\globalize\date.min.js" />
+    <Content Include="content\js\globalize\message.js" />
+    <Content Include="content\js\globalize\message.min.js" />
+    <Content Include="content\js\globalize\number.js" />
+    <Content Include="content\js\globalize\number.min.js" />
+    <Content Include="content\js\jquery-1.12.3.js" />
+    <Content Include="content\js\jquery-1.12.3.min.js" />
+    <Content Include="content\js\jquery-2.2.3.js" />
+    <Content Include="content\js\jquery-2.2.3.min.js" />
+    <Content Include="content\js\jszip.js" />
+    <Content Include="content\js\jszip.min.js" />
+    <Content Include="content\js\knockout-3.4.0.debug.js" />
+    <Content Include="content\js\knockout-3.4.0.js" />
+    <Content Include="content\js\localization\dx.all.de.js" />
+    <Content Include="content\js\localization\dx.all.ja.js" />
+    <Content Include="content\js\localization\dx.all.ru.js" />
+    <Content Include="content\js\localization\dx.messages.de.js" />
+    <Content Include="content\js\localization\dx.messages.en.js" />
+    <Content Include="content\js\localization\dx.messages.ja.js" />
+    <Content Include="content\js\localization\dx.messages.ru.js" />
+    <Content Include="content\js\localization\dx.mobile.de.js" />
+    <Content Include="content\js\localization\dx.mobile.ja.js" />
+    <Content Include="content\js\localization\dx.mobile.ru.js" />
+    <Content Include="content\js\localization\dx.web.de.js" />
+    <Content Include="content\js\localization\dx.web.ja.js" />
+    <Content Include="content\js\localization\dx.web.ru.js" />
+    <Content Include="content\js\vectormap-data\africa.js" />
+    <Content Include="content\js\vectormap-data\canada.js" />
+    <Content Include="content\js\vectormap-data\eurasia.js" />
+    <Content Include="content\js\vectormap-data\europe.js" />
+    <Content Include="content\js\vectormap-data\usa.js" />
+    <Content Include="content\js\vectormap-data\world.js" />
+    <Content Include="content\js\vectormap-utils\dx.vectormaputils.debug.js" />
+    <Content Include="content\js\vectormap-utils\dx.vectormaputils.js" />
+    <Content Include="content\js\vectormap-utils\dx.vectormaputils.node.js" />
     <Content Include="CRUD.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -62,6 +140,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\css\icons\dxicons.ttf" />
+    <Content Include="content\css\icons\dxicons.woff" />
+    <Content Include="content\css\icons\dxiconsios.ttf" />
+    <Content Include="content\css\icons\dxiconsios.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
