@@ -1,4 +1,12 @@
 // INSTRUCTIONS
 
-really not sure about the use of async in the web.api. Doesnt make sense to have the db being connected and the thread blocked. Need to research about a non blocking 
-driver for sql server and .net
+Missing functionality
+* error /logging exception. Log4net
+	* implement logentries.com
+* devexpress UI.
+* Update /delete.
+
+
+Notes
+Developed in VS2017, using webapi2
+* CORS is enable for custom urls. Please do not switch the ports.
