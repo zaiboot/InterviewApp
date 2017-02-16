@@ -1,15 +1,15 @@
-﻿using Interview_DAL.POCO;
+﻿using System.Threading.Tasks;
+using Interview_DAL.POCO;
 
-namespace Interview_DAL.Repositories
+namespace Interview_DAL
 {
-    public class PatientRepository
+    public class PatientRepository : BaseRepository, IPatientRepository
     {
-        public PatientModel GetSinglePatient()
+        
+        public async Task<PatientModel> GetSinglePatient(int id)
         {
-            return new PatientModel()
-            {
-                Id = 1
-            };
+            var spName = "GetPatient";
+            return await ExecuteStoreProcedure(spName, new { Id = id });
         }
     }
 }

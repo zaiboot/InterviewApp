@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
-using Interview_DAL.Repositories;
 using Interview_WebApi.Models;
 using AutoMapper;
+using Interview_DAL;
 
 
 namespace Interview_WebApi.Controllers
@@ -35,11 +36,11 @@ namespace Interview_WebApi.Controllers
         }
 
         // GET: api/Patient/5
-        public PatientModel Get(int id)
+        public async Task<PatientModel> Get(int id)
         {
-            var patientRepository = new PatientRepository();
+            IPatientRepository patientRepository = new PatientRepository();
            
-            return Mapper.Map<PatientModel>(patientRepository.GetSinglePatient()) ;
+            return Mapper.Map<PatientModel>(await patientRepository.GetSinglePatient(id)) ;
         }
 
         // POST: api/Patient
