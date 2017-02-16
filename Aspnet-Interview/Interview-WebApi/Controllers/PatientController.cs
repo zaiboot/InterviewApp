@@ -4,7 +4,10 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using Interview_DAL.Repositories;
 using Interview_WebApi.Models;
+using AutoMapper;
+
 
 namespace Interview_WebApi.Controllers
 {
@@ -34,7 +37,9 @@ namespace Interview_WebApi.Controllers
         // GET: api/Patient/5
         public PatientModel Get(int id)
         {
-            return CreatePatient();
+            var patientRepository = new PatientRepository();
+           
+            return Mapper.Map<PatientModel>(patientRepository.GetSinglePatient()) ;
         }
 
         // POST: api/Patient

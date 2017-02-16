@@ -6,7 +6,10 @@ namespace Interview_DAL.Repositories
     {
         public PatientModel GetSinglePatient()
         {
-            return new PatientModel();
+            return new PatientModel()
+            {
+                Id = 1
+            };
         }
     }
 }
