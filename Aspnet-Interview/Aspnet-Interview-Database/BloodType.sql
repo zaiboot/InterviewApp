@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[BloodType]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NCHAR(10) NULL
+)
+

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>Aspnet_Interview_Database</Name>
+    <Name>Aspnet-Interview-DbSchema</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{4cf5af00-3664-4198-a1e4-4bc85de30d00}</ProjectGuid>
@@ -60,10 +60,14 @@
     <Folder Include="data" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="SocialNetworking.sql" />
-    <Build Include="Settings.sql" />
+    <Build Include="Patient.sql" />
+    <Build Include="Country.sql" />
+    <Build Include="BloodType.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="data\Data.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Aspnet-Interview-DbSchema.refactorlog" />
   </ItemGroup>
 </Project>
