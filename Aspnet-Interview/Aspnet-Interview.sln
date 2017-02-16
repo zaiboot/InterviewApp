@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspnet-Interview", "Aspnet-Interview\Aspnet-Interview.csproj", "{28039D98-75A5-4E85-946D-228551551098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspnet-Interview.Tests", "Aspnet-Interview.Tests\Aspnet-Interview.Tests.csproj", "{822C646E-06E3-43B9-8B33-A2AD7BF447AB}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "template", "template", "{21B20AAC-31D6-4F16-992F-3C57350E0899}"
 	ProjectSection(SolutionItems) = preProject
 		base template\startbootstrap-freelancer-gh-pages.zip = base template\startbootstrap-freelancer-gh-pages.zip
@@ -31,10 +29,6 @@ Global
 		{28039D98-75A5-4E85-946D-228551551098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28039D98-75A5-4E85-946D-228551551098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28039D98-75A5-4E85-946D-228551551098}.Release|Any CPU.Build.0 = Release|Any CPU
-		{822C646E-06E3-43B9-8B33-A2AD7BF447AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{822C646E-06E3-43B9-8B33-A2AD7BF447AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{822C646E-06E3-43B9-8B33-A2AD7BF447AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{822C646E-06E3-43B9-8B33-A2AD7BF447AB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4CF5AF00-3664-4198-A1E4-4BC85DE30D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4CF5AF00-3664-4198-A1E4-4BC85DE30D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CF5AF00-3664-4198-A1E4-4BC85DE30D00}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
