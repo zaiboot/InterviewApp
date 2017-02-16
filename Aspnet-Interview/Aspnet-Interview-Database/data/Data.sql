@@ -9,7 +9,7 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-
+delete from Patient;
 DELETE FROM Country;
 GO
 INSERT INTO Country VALUES 

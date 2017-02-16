@@ -58,16 +58,18 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="data" />
+    <Folder Include="sp" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Patient.sql" />
     <Build Include="Country.sql" />
     <Build Include="BloodType.sql" />
+    <Build Include="sp\AddPatient.sql" />
+    <Build Include="sp\DeletePatient.sql" />
+    <Build Include="sp\UpdatePatient.sql" />
+    <Build Include="sp\GetPatient.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="data\Data.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <RefactorLog Include="Aspnet-Interview-DbSchema.refactorlog" />
   </ItemGroup>
 </Project>
