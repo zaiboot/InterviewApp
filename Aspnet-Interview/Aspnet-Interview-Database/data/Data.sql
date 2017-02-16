@@ -11,6 +11,7 @@ Post-Deployment Script Template
 */
 delete from Patient;
 DELETE FROM Country;
+DELETE FROM [BloodType];
 GO
 INSERT INTO Country VALUES 
 (1,'Afghanistan','AF','AFG')
@@ -264,8 +265,28 @@ INSERT INTO Country VALUES
 ,(249,'Zambia','ZM','ZMB')
 ,(250,'Zimbabwe','ZW','ZWE');
 go
-DELETE FROM [BloodType];
+
 INSERT INTO [dbo].[BloodType]([Name]) VALUES
 	('O−')	,('O+'),('A−'),('A+'),('B−'),('B+'),('AB−'),('AB+') 
 ;
 GO
+
+INSERT INTO Settings (SettingName, SettingValue) VALUES
+	('RowsPerPage', 5)
+	;
+
+GO
+declare @bloodType INT = (SELECT top 1 Id from BloodType);
+
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;
+exec AddPatient '01', 'madrigal', '456', '01-01-2016', 250, 'dadbsabdhsabhdjsa', 'adsadsadsa', @bloodType;

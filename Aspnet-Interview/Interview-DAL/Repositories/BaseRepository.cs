@@ -1,4 +1,5 @@
-﻿using System.Configuration;
+﻿using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
@@ -17,14 +18,25 @@ namespace Interview_DAL
             get { return ConfigurationManager.ConnectionStrings["cnx"].ConnectionString;}
         }
 
-        protected async Task<PatientModel> ExecuteStoreProcedure(string spName, object parameters)
+        protected async Task<PatientModel> GetFirstOrDefault(string spName, object parameters)
         {
             using (var conn = new SqlConnection(ConnectionString))
             {
                 await conn.OpenAsync();
 
-
                 return await conn.QueryFirstOrDefaultAsync<PatientModel>(spName, parameters, null, null,
+                    CommandType.StoredProcedure);
+            }
+        }
+
+
+        protected async Task<IEnumerable<PatientModel>> Query(string spName, object parameters)
+        {
+            using (var conn = new SqlConnection(ConnectionString))
+            {
+                await conn.OpenAsync();
+
+                return await conn.QueryAsync<PatientModel>(spName, parameters, null, null,
                     CommandType.StoredProcedure);
             }
         }

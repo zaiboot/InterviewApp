@@ -68,6 +68,8 @@
     <Build Include="sp\DeletePatient.sql" />
     <Build Include="sp\UpdatePatient.sql" />
     <Build Include="sp\GetPatient.sql" />
+    <Build Include="sp\GetAllPatients.sql" />
+    <Build Include="Settings.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="data\Data.sql" />
